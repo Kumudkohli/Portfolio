@@ -21,19 +21,19 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 
 Project Name | Description | SQL Functions
 | :--- | :--- | :---
-🍜[Danny's Diner](https://github.com/rehalarjun/SQL-Projects/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner)| Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. | Advanced SQL
-🍕[Pizza Runner](https://github.com/rehalarjun/SQL-Projects/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner) |  | Advanced SQL
-🥑[Foodie-Fi](https://github.com/rehalarjun/SQL-Projects/tree/main/Case%20Study%20%233%20-%20Foodie-Fi) |  | Advanced SQL
+🍜[Danny's Diner](https://github.com/Kumudkohli/SQL-Projects/tree/main/Case%20Study%20%231%3A%20Danny's%20Diner)| Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. | Advanced SQL
+🍕[Pizza Runner](https://github.com/Kumudkohli/SQL-Projects/tree/main/Case%20Study%20%232%3A%20Pizza%20Runner) |  | Advanced SQL
+🥑[Foodie-Fi](https://github.com/Kumudkohli/SQL-Projects/tree/main/Case%20Study%20%233%3A%20Foodie-Fi) |  | Advanced SQL
 🏦[Data Bank](https://github.com/rehalarjun/SQL-Projects/tree/main/Case%20Study%20%234%20-%20Data%20Bank) |  | Advanced SQL
-🌽[Data Mart](https://github.com/rehalarjun/SQL-Projects/tree/main/Case%20Study%20%235%20-%20Data%20Mart)  |  | Advanced SQL
-🦠[Covid-19 and the Impact on Malaysia Stock Market](https://github.com/rehalarjun/SQL-Projects/tree/main/Case%20Study%20%236_%20Covid-19%20and%20impact%20on%20Malaysia%20Stock%20Market)) |I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. |Temporary tables, Aggregations, Joins, CTEs, Window functions (summary statistics: mode, median)
+🌽[Data Mart](https://github.com/Kumudkohli/SQL-Projects/tree/main/Case%20Study%20%235%3A%20Data%20Mart)  |  | Advanced SQL
+🦠[Covid-19 and the Impact on Malaysia Stock Market](https://github.com/Kumudkohli/SQL-Projects/tree/main/Case%20Study%20%236%3A%20Covid-19%20and%20impact%20on%20Malaysia%20Stock%20Market)) |I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. |Temporary tables, Aggregations, Joins, CTEs, Window functions (summary statistics: mode, median)
 
 # Python
 Skills: Data cleaning, wrangling, visualisation, analysis Libraries: pandas, numpy, matplotlib, seaborn
 Project Name | Area | Description | Libraries
 | :--- | :--- | :--- | :---
-🛍 [Super Store Analysis](https://github.com/rehalarjun/Python-Projects/tree/main/Super%20Store%20Analysis) | EDA | Analysis of sales data to find out highest revenue and profit product categories and top customer segments |pandas, matplotlib, seaborn
-🏙 [Exploring the NYC Airbnb Market](https://github.com/rehalarjun/Python-Projects/tree/main/Exploring%20the%20NYC%20Airbnb%20Market) | EDA | Exploring Airbnb datasets and conducting a pricing analysis between Airbnb and private rentals. |pandas, numpy, datetime
+🛍 [Super Store Analysis](https://github.com/Kumudkohli/Python-Projects/tree/main/Super%20Store%20Analysis) | EDA | Analysis of sales data to find out highest revenue and profit product categories and top customer segments |pandas, matplotlib, seaborn
+🏙 [Exploring the NYC Airbnb Market](https://github.com/Kumudkohli/Python-Projects/tree/main/Exploring%20the%20NYC%20Airbnb%20Market) | EDA | Exploring Airbnb datasets and conducting a pricing analysis between Airbnb and private rentals. |pandas, numpy, datetime
 
 # Tableau
 Project Name | Description | Tableau Dashboard
